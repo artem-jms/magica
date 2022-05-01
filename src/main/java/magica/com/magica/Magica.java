@@ -9,7 +9,7 @@ public final class Magica extends JavaPlugin {
         // Plugin startup logic
 
     }
-
+    // qwerqwer
     //
 
     @Override
