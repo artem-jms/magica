@@ -12,7 +12,6 @@ public final class Magica extends JavaPlugin {
     //4 -
     //5 -
 
-
     @Override
     public void onEnable() {
 
