@@ -4,3 +4,5 @@ main: magica.com.magica.Magica
 api-version: 1.17
 softdepend: [ Vault ]
 description: Core plugin of magica project
+commands:
+  menu: {}
